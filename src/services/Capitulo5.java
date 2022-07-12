@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.ToIntFunction;
 
 import Interfaces.Usuarios;
-import entites.Usuario;
+import entity.Usuario;
 
 public class Capitulo5 {
 

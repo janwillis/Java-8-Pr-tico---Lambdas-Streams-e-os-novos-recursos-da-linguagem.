@@ -7,7 +7,7 @@ import java.util.Objects;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-import entites.Usuario;
+import entity.Usuario;
 
 public class Capitulo4 {
 	public static void main(String... args) {

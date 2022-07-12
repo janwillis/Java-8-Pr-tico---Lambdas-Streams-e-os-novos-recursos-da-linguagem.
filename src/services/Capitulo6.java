@@ -6,7 +6,7 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 
 import Interfaces.Usuarios;
-import entites.Usuario;
+import entity.Usuario;
 
 public class Capitulo6 extends AbstractUsuarios {
 
@@ -46,8 +46,7 @@ public class Capitulo6 extends AbstractUsuarios {
 //		usuarios.forEach(u -> System.out.println(u));
 
 		/* 6.6 REFERENCIANDO CONSTRUTORES */
-		
-		Supplier<Usuario> usuario = Usuario::new;
+//				Supplier<Usuario> usuario = Usuario::new;
 		
 
 	}

@@ -5,7 +5,7 @@ import java.util.List;
 
 import Interfaces.Treino;
 import Interfaces.Validator;
-import entites.Usuario;
+import entity.Usuario;
 
 /**
  * Classe de execusão de exemplos isolados da apostila do capitulo 3

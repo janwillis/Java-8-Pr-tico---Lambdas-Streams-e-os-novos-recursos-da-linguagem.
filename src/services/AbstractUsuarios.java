@@ -3,7 +3,7 @@ package services;
 import java.util.List;
 
 import Interfaces.Usuarios;
-import entites.Usuario;
+import entity.Usuario;
 
 public class AbstractUsuarios {
 	

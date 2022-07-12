@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import entites.Usuario;
+import entity.Usuario;
 
 public interface Usuarios {
 
