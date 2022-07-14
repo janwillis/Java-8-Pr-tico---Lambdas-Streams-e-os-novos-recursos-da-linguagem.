@@ -42,7 +42,7 @@ public class Capitulo6 extends AbstractUsuarios {
 		/*
 		 * 6.5 REFERENCIANDO MÉTODOS QUE RECEBEM ARGUMENTOS
 		 */
-//		usuarios.forEach(System.out::println);
+		usuarios.forEach(System.out::println);
 //		usuarios.forEach(u -> System.out.println(u));
 
 		/* 6.6 REFERENCIANDO CONSTRUTORES */

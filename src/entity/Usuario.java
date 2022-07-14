@@ -34,7 +34,7 @@ public class Usuario {
 	}
 
 	public String toString() {
-		return "Usuario	" + nome;
+		return "Usuario: " + nome + " - " + pontos + " - " + " É moderador?" + isModerador();
 	}
 
 	public Usuario(String nome, int pontos, LocalDate nacimento) {
